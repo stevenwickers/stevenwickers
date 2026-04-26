@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/devassist-banner.png" alt="DevAssist AI Banner" />
+  <img src="assets/devassist-banner.png" alt="DevAssist AI Banner" />
 </p>
 
 # 👋 Steven Wickers
