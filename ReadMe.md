@@ -117,6 +117,12 @@ Full-stack system showcasing enterprise architecture:
 * Creating portfolio-grade AI projects
 
 ---
+## 📬 Contact
+
+* 💼 LinkedIn: https://www.linkedin.com/in/stevenwickers/
+* ▶️ YouTube: https://www.youtube.com/@stevenwickers-developer
+* 🌐 Portfolio: https://stevenwickers.com/
+* 📧 Email: [stevenwickers@gmail.com](mailto:stevenwickers@gmail.com)
 
 ## 📊 GitHub Stats
 
@@ -124,10 +130,3 @@ Full-stack system showcasing enterprise architecture:
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=stevenwickers&show_icons=true&theme=transparent&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenwickers&layout=compact&theme=transparent&hide_border=true" />
 </p>
-
-## 📬 Contact
-
-* 💼 LinkedIn: https://www.linkedin.com/in/stevenwickers/
-* ▶️ YouTube: https://www.youtube.com/@stevenwickers-developer
-* 🌐 Portfolio: https://stevenwickers.com/
-* 📧 Email: [stevenwickers@gmail.com](mailto:stevenwickers@gmail.com)
